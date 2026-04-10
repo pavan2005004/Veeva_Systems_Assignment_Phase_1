@@ -4,20 +4,22 @@ import io.cucumber.java.en.Given;
 import io.cucumber.java.en.When;
 import io.cucumber.java.en.Then;
 
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import org.testng.Assert;
 
 import driver.DriverFactory;
 import pages.LoginPage;
 import utils.ConfigReader;
+import utils.LoggerUtil;
 
 public class LoginSteps {
 
     LoginPage loginPage;
-
+    Logger log = LoggerUtil.getLogger(LoginSteps.class);
     @Given("User is on login page")
     public void user_on_login_page() {
-
+        log.info("Navigating to login page");
         WebDriver driver = DriverFactory.getDriver();
         driver.get(ConfigReader.get("url") + "/login");
 

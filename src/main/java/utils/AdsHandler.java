@@ -19,4 +19,19 @@ public class AdsHandler {
             // ignore
         }
     }
+    public static void removeBottomPopup(WebDriver driver) {
+
+        try {
+            JavascriptExecutor js = (JavascriptExecutor) driver;
+
+
+            js.executeScript(
+                    "document.querySelectorAll('iframe, .fixed-bottom, .sticky-bottom, .chat-widget, .cookie-banner')" +
+                            ".forEach(el => el.remove());"
+            );
+
+        } catch (Exception e) {
+            // ignore
+        }
+    }
 }

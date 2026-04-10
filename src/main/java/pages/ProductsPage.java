@@ -2,11 +2,13 @@
 
 package pages;
 
+import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.interactions.Actions;
 import utils.AdsHandler;
+import utils.LoggerUtil;
 import utils.WaitUtils;
 
 public class ProductsPage {
@@ -23,8 +25,10 @@ public class ProductsPage {
         this.driver = driver;
         wait = new WaitUtils(driver);
     }
+    Logger log = LoggerUtil.getLogger(ProductsPage.class);
 
     public void goToProducts() {
+        log.info("Clicking on Products page");
         wait.waitForElement(productsBtn).click();
     }
 

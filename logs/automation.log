@@ -1,0 +1,89 @@
+2026-04-10 11:49:30 | INFO  | Hooks | ===== Starting Test Execution =====
+2026-04-10 11:49:33 | INFO  | Hooks | Opening URL: https://automationexercise.com
+2026-04-10 11:49:33 | INFO  | Hooks | Opening URL: https://automationexercise.com
+2026-04-10 11:49:33 | INFO  | Hooks | Opening URL: https://automationexercise.com
+2026-04-10 11:49:33 | INFO  | Hooks | Opening URL: https://automationexercise.com
+2026-04-10 11:49:33 | INFO  | Hooks | Opening URL: https://automationexercise.com
+2026-04-10 11:49:48 | INFO  | LoginSteps | Navigating to login page
+2026-04-10 11:49:52 | INFO  | LoginSteps | Navigating to login page
+2026-04-10 11:50:00 | INFO  | Hooks | ✅ Test PASSED: Invalid login
+2026-04-10 11:50:00 | INFO  | Hooks | Closing browser
+2026-04-10 11:50:00 | INFO  | Hooks | ===== Test Execution Finished =====
+
+2026-04-10 11:50:27 | INFO  | Hooks | ✅ Test PASSED: Remove product from cart
+2026-04-10 11:50:29 | INFO  | Hooks | Closing browser
+2026-04-10 11:50:29 | INFO  | Hooks | ===== Test Execution Finished =====
+
+2026-04-10 11:50:31 | INFO  | Hooks | ✅ Test PASSED: Register new user successfully
+2026-04-10 11:50:31 | INFO  | Hooks | Closing browser
+2026-04-10 11:50:31 | INFO  | Hooks | ===== Test Execution Finished =====
+
+2026-04-10 11:50:33 | INFO  | Hooks | ✅ Test PASSED: Valid login
+2026-04-10 11:50:35 | INFO  | Hooks | Closing browser
+2026-04-10 11:50:35 | INFO  | Hooks | ===== Test Execution Finished =====
+
+2026-04-10 11:50:44 | INFO  | Hooks | ✅ Test PASSED: Add product to cart
+2026-04-10 11:50:45 | INFO  | Hooks | Closing browser
+2026-04-10 11:50:45 | INFO  | Hooks | ===== Test Execution Finished =====
+
+2026-04-10 11:52:20 | INFO  | Hooks | ===== Starting Test Execution =====
+2026-04-10 11:52:22 | INFO  | Hooks | Opening URL: https://automationexercise.com
+2026-04-10 11:52:22 | INFO  | Hooks | Opening URL: https://automationexercise.com
+2026-04-10 11:52:22 | INFO  | Hooks | Opening URL: https://automationexercise.com
+2026-04-10 11:52:22 | INFO  | Hooks | Opening URL: https://automationexercise.com
+2026-04-10 11:52:22 | INFO  | Hooks | Opening URL: https://automationexercise.com
+2026-04-10 11:52:28 | INFO  | LoginSteps | Navigating to login page
+2026-04-10 11:52:47 | INFO  | ProductsPage | Clicking on Products page
+2026-04-10 11:52:48 | INFO  | LoginSteps | Navigating to login page
+2026-04-10 11:52:49 | INFO  | Hooks | ✅ Test PASSED: Invalid login
+2026-04-10 11:52:50 | INFO  | Hooks | Closing browser
+2026-04-10 11:52:50 | INFO  | Hooks | ===== Test Execution Finished =====
+
+2026-04-10 11:52:58 | INFO  | Hooks | ✅ Test PASSED: Remove product from cart
+2026-04-10 11:52:59 | INFO  | Hooks | Closing browser
+2026-04-10 11:52:59 | INFO  | Hooks | ===== Test Execution Finished =====
+
+2026-04-10 11:53:05 | INFO  | Hooks | ✅ Test PASSED: Register new user successfully
+2026-04-10 11:53:05 | INFO  | Hooks | Closing browser
+2026-04-10 11:53:05 | INFO  | Hooks | ===== Test Execution Finished =====
+
+2026-04-10 11:53:08 | INFO  | ProductsPage | Clicking on Products page
+2026-04-10 11:53:20 | INFO  | Hooks | ✅ Test PASSED: Valid login
+2026-04-10 11:53:20 | INFO  | Hooks | Closing browser
+2026-04-10 11:53:20 | INFO  | Hooks | ===== Test Execution Finished =====
+
+2026-04-10 11:53:37 | ERROR | Hooks | ❌ Test FAILED: Add product to cart
+2026-04-10 11:53:37 | ERROR | Hooks | 📸 Screenshot saved at: screenshots/Add product to cart_1775802217252.png
+2026-04-10 11:53:37 | INFO  | Hooks | Closing browser
+2026-04-10 11:53:37 | INFO  | Hooks | ===== Test Execution Finished =====
+
+2026-04-10 11:53:50 | INFO  | Hooks | ===== Starting Test Execution =====
+2026-04-10 11:53:51 | INFO  | Hooks | Opening URL: https://automationexercise.com
+2026-04-10 11:53:51 | INFO  | Hooks | Opening URL: https://automationexercise.com
+2026-04-10 11:53:52 | INFO  | Hooks | Opening URL: https://automationexercise.com
+2026-04-10 11:53:52 | INFO  | Hooks | Opening URL: https://automationexercise.com
+2026-04-10 11:53:52 | INFO  | Hooks | Opening URL: https://automationexercise.com
+2026-04-10 11:53:59 | INFO  | LoginSteps | Navigating to login page
+2026-04-10 11:54:00 | INFO  | LoginSteps | Navigating to login page
+2026-04-10 11:54:03 | INFO  | Hooks | ✅ Test PASSED: Invalid login
+2026-04-10 11:54:06 | INFO  | Hooks | Closing browser
+2026-04-10 11:54:06 | INFO  | Hooks | ===== Test Execution Finished =====
+
+2026-04-10 11:54:09 | INFO  | ProductsPage | Clicking on Products page
+2026-04-10 11:54:12 | INFO  | Hooks | ✅ Test PASSED: Valid login
+2026-04-10 11:54:13 | INFO  | Hooks | Closing browser
+2026-04-10 11:54:13 | INFO  | Hooks | ===== Test Execution Finished =====
+
+2026-04-10 11:54:15 | INFO  | Hooks | ✅ Test PASSED: Register new user successfully
+2026-04-10 11:54:16 | INFO  | Hooks | Closing browser
+2026-04-10 11:54:16 | INFO  | Hooks | ===== Test Execution Finished =====
+
+2026-04-10 11:54:16 | INFO  | Hooks | ✅ Test PASSED: Add product to cart
+2026-04-10 11:54:17 | INFO  | Hooks | Closing browser
+2026-04-10 11:54:17 | INFO  | Hooks | ===== Test Execution Finished =====
+
+2026-04-10 11:54:18 | INFO  | ProductsPage | Clicking on Products page
+2026-04-10 11:54:22 | INFO  | Hooks | ✅ Test PASSED: Remove product from cart
+2026-04-10 11:54:22 | INFO  | Hooks | Closing browser
+2026-04-10 11:54:22 | INFO  | Hooks | ===== Test Execution Finished =====
+
